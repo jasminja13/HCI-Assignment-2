@@ -2,6 +2,13 @@
 This prototype is based on the recent pandemic COVID-19.
 URL for Figma Design: https://www.figma.com/proto/nvNQEXlb0OFSD3STZ1EeTn/HCI-Assignment-2?node-id=1%3A2383&viewport=-1694%2C7080%2C0.5&scaling=scale-down
 
+Desirable functionalities:
+1. It would be great to have a feature where people can know what are the nearest vaccination centres are
+2. Another add on could be collaborating with docotrs just in case people need to access them
+3. For Seniors, it would be great to have audio/video call feature to talk to volunteers
+4. It would be great  to have a feature where all the data for person's vaccination can be kept at one spot for their personal reference.
+5. Children can made aware about COVID-19 and its precautions by adding some kind of cool game feature which enhances their knowledge.
+
 
 <img width="379" alt="Screen Shot 2021-03-11 at 12 22 04 PM" src="https://user-images.githubusercontent.com/48334837/110835525-e7aebf00-826c-11eb-9365-c2057ae7eaa6.png">
 <img width="389" alt="Screen Shot 2021-03-11 at 12 25 01 PM" src="https://user-images.githubusercontent.com/48334837/110835538-ed0c0980-826c-11eb-9c11-40b114499c33.png">
